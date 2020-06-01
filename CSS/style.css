@@ -1,0 +1,58 @@
+
+    body {
+      text-align: center; 
+      background-color: black;
+    }
+
+    table, th, td {
+      border: 1px solid gainsboro; 
+      text-align: center;
+      margin: 0 auto;
+      color: whitesmoke
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    #mybio {
+      margin: 2% 15%;
+      text-align: justify;
+      text-justify: inter-word;
+      color: whitesmoke;
+      background-color: gray;
+      padding: 10px;
+    }
+
+
+    img {
+      border: 15px 10px solid;
+    }
+
+    a {
+      color: gray;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+
+    a:hover{
+      color: blue;
+    }
+
+    #bio-sub{
+      color: whitesmoke;
+    }
+
+    .main_headers{
+      font-weight: bold;
+      font-size: 30px;
+    }
+
+    header{
+      font-weight: bold;
+      font-size: 50px;
+      color: whitesmoke
+    }
+
